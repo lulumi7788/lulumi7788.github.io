@@ -4,12 +4,12 @@ title: 永康曾咖郎事蹟
 permalink: /about
 comments: true
 ---
-<div class="intro">
+
+<div class="row justify-content-between">
+<div class="col-md-8 pr-5">
 
 <p>天生帶賽又怪洨事一堆 因此成立粉絲團紀錄荒謬人生 來自府城永康 當過消防替代役 現為上班族 一隻貓的奴隸</p>
-</div>
 
-<div class="media">
 <h4>媒體報導</h4>
 
 <a href="https://movies.ettoday.net/news/726187">《ID4星際重生》發生什麼事？網點出「6大問題」被推爆/ETtoday</a></p>
@@ -33,9 +33,10 @@ comments: true
 
 <a href="https://tw.news.yahoo.com/%E6%94%B6%E5%88%B0%E6%9C%80%E8%8D%92%E8%AC%AC%E7%94%9F%E6%97%A5%E7%A6%AE-%E6%B0%B8%E5%BA%B7%E7%8E%84%E5%BD%AC%E7%A7%92%E8%AE%8A%E5%BB%9F%E5%85%AC-030016391.html">收到最荒謬生日禮 永康玄彬秒變廟公/三立新聞</a>
 <p></p>
-</div>
 
-<div>
+
+<p class="mb-5"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/mediumish-jekyll-template.png" alt="jekyll template mediumish" /></p>
+
 <h4>永康曾咖郎聯手某人，開台Podcast「曾咖波荒謬事」啦！</h4>
 <p>這些平台都可以收聽喔</p>
 <a href="https://reurl.cc/VXjRk6">KKBOX</a>
@@ -51,3 +52,15 @@ comments: true
 
 </div>
 
+<div class="col-md-4">
+
+<div class="sticky-top sticky-top-80">
+<h5>Buy me a coffee</h5>
+
+<p>Thank you for your support! Your donation helps me to maintain and improve <a target="_blank" href="https://github.com/wowthemesnet/mediumish-theme-jekyll">Mediumish<i class="fab fa-github"></i></a>.</p>
+
+<a target="_blank" href="https://www.wowthemes.net/donate/" class="btn btn-danger">Buy me a coffee</a> <a target="_blank" href="https://bootstrapstarter.com/bootstrap-templates/template-mediumish-bootstrap-jekyll/" class="btn btn-warning">Documentation</a>
+
+</div>
+</div>
+</div>
