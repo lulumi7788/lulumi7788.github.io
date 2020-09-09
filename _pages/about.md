@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Mediumish Template for Jekyll
+title: Mimi的第一個家
 permalink: /about
 comments: true
 ---
