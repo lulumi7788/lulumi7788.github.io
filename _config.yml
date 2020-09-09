@@ -1,35 +1,26 @@
 # Site
-name: "Mimi's website"
-title: "Mimi's website"
-description: "Mimi的第一個家"
+name: "永康曾咖郎"
+title: "永康曾咖郎"
+description: "天生帶賽又怪洨事一堆 因此成立粉絲團紀錄荒謬人生 來自府城永康 當過消防替代役 現為上班族 一隻貓的奴隸"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: ""
-google_analytics: 'UA-46278016-1'
-disqus: 'demowebsite'
+google_analytics: ''
+disqus: ''
 mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
 include: ["_pages"]
 permalink: /:title/
 
 # Authors
 authors:
-  sal:
-    name: Sal
-    display_name: Sal
-    gravatar: e56154546cf4be74e393c62d1ae9f9d4
-    email: wowthemesnet@gmail.com
-    web: https://www.wowthemes.net
-    twitter: https://twitter.com/wowthemesnet
-    description: "Author of Mediumish, a Bootstrap Medium styled template available for WordPress, HTML, Ghost and Jekyll. You are currently previewing Jekyll template demo."
-  mimi:
-    name: Mimi
-    display_name: Mimi    
+    name: 咖郎
+    display_name: 咖郎   
     avatar: 'assets/images/avatar.png'
     gravatar: b1cc14991db7a456fcd761680bbc8f81
-    email: chenchenhua1112@gmail.com
+    email: 
     web: 
     twitter: 
-    description: "我叫做咪咪陳"
+    description: "永康曾咖郎本尊"
 
 # Plugins
 plugins:
