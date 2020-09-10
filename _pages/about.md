@@ -26,9 +26,9 @@ comments: true
 <div class="sticky-top sticky-top-80">
 <h5>Buy me a coffee</h5>
 
-<p>Thank you for your support! Your donation helps me to maintain and improve <a target="_blank" href="https://github.com/wowthemesnet/mediumish-theme-jekyll">Mediumish <i class="fab fa-github"></i></a>.</p>
+<p>合作邀約，歡迎寄信，也可以到粉絲頁私訊我們喔！</p>
 
-<a target="_blank" href="https://www.wowthemes.net/donate/" class="btn btn-danger">Buy me a coffee</a> <a target="_blank" href="https://bootstrapstarter.com/bootstrap-templates/template-mediumish-bootstrap-jekyll/" class="btn btn-warning">Documentation</a>
+<a target="_blank" href="https://www.facebook.com/yklocalman" class="btn btn-danger">永康曾咖郎粉絲頁</a> <a target="_blank" href="localcouple9487@gmail.com" class="btn btn-warning">寄信給我們</a>
 
 </div>
 </div>
